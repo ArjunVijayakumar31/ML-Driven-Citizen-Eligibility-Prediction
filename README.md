@@ -22,8 +22,9 @@ The model is trained on socio-economic data such as income, family size, employm
 - Scikit-learn
 - Streamlit
 
-#How to Run The Project
-1.Intall Requirements: pip intall -r(requirements.txt)
+## How to Run the Project
+1. Install requirements:
+ pip intall -r(requirements.txt)
 2.Run Streamlit app:
 
 ## Output
@@ -33,5 +34,3 @@ The system predicts:
 
 
 
-## How to Run the Project
-1. Install requirements:
